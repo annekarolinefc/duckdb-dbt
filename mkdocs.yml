@@ -1,0 +1,4 @@
+site_name: Projeto Duckdb e DBT
+nav:
+    - Home: index.md
+    - Sobre: about.md
